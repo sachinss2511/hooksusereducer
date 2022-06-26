@@ -1,5 +1,4 @@
 import React from 'react';
-
 import Navigation from './Navigation';
 import classes from './MainHeader.module.css';
 
@@ -11,5 +10,4 @@ const MainHeader = (props) => {
     </header>
   );
 };
-
 export default MainHeader;
